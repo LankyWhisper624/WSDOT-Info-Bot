@@ -1,0 +1,17 @@
+Blewett Pass US 97|Northbound - No restrictions|Southbound - No restrictions|The road is bare and dry.|Overcast.|28
+Cayuse Pass SR 123|Northbound - Pass Closed|Southbound - Pass Closed|SR 123 Cayuse Pass is closed for the season. Northbound traffic is closed on SR 123 at milepost 2.5, north of the US 12 junction. Southbound traffic is closed at milepost 57 on SR 410, Crystal Mountain Blvd, 8 miles prior to the summit.||None
+Chinook Pass SR 410|Eastbound - Pass Closed|Westbound - Pass Closed|SR-410 Chinook Pass is closed for the season due to adverse road and weather conditions. Eastbound traffic is closed at milepost 57, Crystal Mountain Boulevard, 12 miles west of the summit. Westbound traffic is closed at milepost 74.5 Morse Creek, 5 miles east of the summit. ||None
+Crystal to Greenwater SR 410|Eastbound - No restrictions|Westbound - No restrictions|Bare and Wet|Clear skies.|25
+Disautel Pass SR 155|Northbound - No restrictions|Southbound - No restrictions|Bare and dry.|Clear.|27
+Loup Loup Pass SR 20|Eastbound - No restrictions|Westbound - No restrictions|Bare and wet, with snow and ice in places. |Clear skies. |20
+Manastash Ridge I-82|Eastbound - No restrictions|Westbound - No restrictions|The roadway is bare and dry.|partly cloudy|33
+Mt. Baker Hwy SR 542|Eastbound - Traction Tires Advised, Oversize Vehicles Prohibited.|Westbound - Traction Tires Advised, Oversize Vehicles Prohibited.|Roadway is bare and wet with compacted snow and ice in places. The final 2.7 mile section of SR 542, known as the road to Artist Point (milepost 55) is closed for the season.|Clear|25
+North Cascade Hwy SR 20|Eastbound - Closed for the season|Westbound - Closed for the season|SR 20 the North Cascades Highway is closed for the season as of Thursday, November 30th at 6:00 p.m. The closure points are milepost 134 at Ross Dam Trailhead on the west side and at milepost 171 at the Silver Star Gate on the east side.||None
+Satus Pass US 97|Northbound - No restrictions|Southbound - No restrictions|Bare and Dry|Partly cloudy |35
+Sherman Pass SR 20|Eastbound - No restrictions|Westbound - No restrictions|Bare and wet, with ice in places. |Partly cloudy.|21
+Snoqualmie Pass I-90|Eastbound - No restrictions|Westbound - No restrictions|The roadway is bare and dry, wet in places|scattered clouds |29
+Stevens Pass US 2|Eastbound - No restrictions|Westbound - No restrictions|The road is bare and wet.|Overcast.|28
+Tiger Mountain SR18|Northbound - No restrictions|Southbound - No restrictions|Drivers should be prepared for changing weather and road conditions. Should adverse weather or other incidents occur that will impact your travel, updates will be provided as information is available.|clear|None
+Wauconda Pass SR 20|Eastbound - No restrictions|Westbound - No restrictions|Bare and dry with frost and ice in places.|Clear.|15
+White Pass  US 12|Eastbound - No restrictions|Westbound - No restrictions|The roadway is bare and wet|Partly cloudy|27
+2024-02-13 23:32:54.021155
